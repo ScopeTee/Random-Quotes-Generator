@@ -1,9 +1,4 @@
-// $('.card').hide()
 
-// $("button").onclick() {
-//     $('.card').show()
-
-// }
 document.querySelector('button').onclick = showQuote
 function showQuote() {
 fetch("https://favqs.com/api/qotd")

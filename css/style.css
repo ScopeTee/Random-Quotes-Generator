@@ -1,7 +1,4 @@
 body{
-    /* background-image: url(../IMG_0677.JPG);
-    background-size: cover;
-    background-repeat: no-repeat; */
     background-image: url(../pngtree-chinese-style-simple-and-fresh-bamboo-celebrity-quotes-poster-background-material-image_144744.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -32,6 +29,8 @@ main > div {
     border: 5px dashed burlywood ;
     text-align: center;
     font-family: 'Roboto Mono', monospace;
+    width: auto;
+    height: fit-content;
 }
 span {
     text-align: center;
